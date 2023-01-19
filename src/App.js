@@ -16,7 +16,6 @@ const ROLES = {
   'Editor': 1984,
   'Admin': 5150
 }
-
 function App() {
 
   return (
